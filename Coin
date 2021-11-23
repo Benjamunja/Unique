@@ -1,0 +1,12 @@
+   {
+      "chainId": 101,
+      "address": "EYXHfsSMwEfvdf4S1VjSCe7hphAuwnMJx6RvzxzMMeHr",
+      "symbol": "UNIQ",
+      "name": "UNIQUE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HCXXtXPasqcF4BVsrPQPfHMQPUofoCbDbjsTUANFSHDR/logo.png",
+      "tags": [
+        "community-token",
+      ],
+      }
+    },
